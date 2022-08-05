@@ -1,0 +1,43 @@
+[
+    {
+        "id": "001",
+        "name": "McDonald's"
+    },
+    {
+        "id": "002",
+        "name": "Burger King"
+    },
+    {
+        "id": "003",
+        "name": "Raising Cane's"
+    },
+    {
+        "id": "004",
+        "name": "Chick-fil-A"
+    },
+    {
+        "id": "005",
+        "name": "Carl's Jr"
+    },
+    {
+        "id": "006",
+        "name": "Wendy's"
+    },
+    {
+        "id": "007",
+        "name": "Whataburger"
+    },
+    {
+        "id": "008",
+        "name": "Jack In The Box"
+    },
+    {
+        "id": "009",
+        "name": "Sonic"
+    },
+    {
+        "id": "010",
+        "name": "Arby's"
+    }
+
+]
