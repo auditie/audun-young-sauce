@@ -1,43 +1,53 @@
 [
     {
         "id": "001",
-        "name": "McDonald's"
+        "name": "McDonald's",
+        "image": "mcdonalds-02.svg"
     },
     {
         "id": "002",
-        "name": "Burger King"
+        "name": "Burger King",
+        "image": "burgerking-02.svg"
     },
     {
         "id": "003",
-        "name": "Raising Cane's"
+        "name": "Raising Cane's",
+        "image": "raisingcanes-02.svg"
     },
     {
         "id": "004",
-        "name": "Chick-fil-A"
+        "name": "Chick-fil-A",
+        "image": "chickfila-02.svg"
     },
     {
         "id": "005",
-        "name": "Carl's Jr"
+        "name": "Carl's Jr",
+        "image": "carlsjr-02.svg"
     },
     {
         "id": "006",
-        "name": "Wendy's"
+        "name": "Wendy's",
+        "image": "wendys-02.svg"
     },
     {
         "id": "007",
-        "name": "Whataburger"
+        "name": "Whataburger",
+        "image": "whattaburger-02.svg"
     },
     {
         "id": "008",
-        "name": "Jack In The Box"
+        "name": "Jack In The Box",
+        "image": "jackinthebox-02.svg"
     },
     {
         "id": "009",
-        "name": "Sonic"
+        "name": "Sonic",
+        "image": "sonic-02.svg"
     },
     {
         "id": "010",
-        "name": "Arby's"
+        "name": "Arby's",
+        "image": "arbys-02.svg"
     }
 
 ]
