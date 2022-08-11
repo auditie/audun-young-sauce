@@ -28,19 +28,31 @@
         "sauceId": "0014"
     },
     {
-        "rating": 4,
-        "sauceId": "0014"
+        "rating": 3,
+        "sauceId": "0067"
     },
     {
-        "rating": 5,
-        "sauceId": "0014"
+        "rating": 3,
+        "sauceId": "0067"
+    },
+    {
+        "rating": 3,
+        "sauceId": "0067"
+    },
+    {
+        "rating": 3.5,
+        "sauceId": "0067"
+    },
+    {
+        "rating": 3.2,
+        "sauceId": "0067"
     },
     {
         "rating": 4,
-        "sauceId": "0014"
+        "sauceId": "0067"
     },
     {
-        "rating": 4,
-        "sauceId": "0014"
+        "rating": 2.5,
+        "sauceId": "0067"
     }
 ]
